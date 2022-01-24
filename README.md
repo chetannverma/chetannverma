@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 
 #
 [![Chetan's github stats](https://github-readme-stats.vercel.app/api?username=chetannverma&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/chetannverma/github-readme-stats)
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetannverma](https://github.com//github-readme-stats)
+#
+  ![Alt Text](https://www.aalpha.net/wp-content/uploads/2020/12/blockchain-development.gif)
+
+
 
