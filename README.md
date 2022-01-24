@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any new Web Project
 - 📫 How to reach me: 
          🏢 [LinkedIn](https://www.linkedin.com/in/chetan-verma-471b3010a/)
-- 😄 Pronouns: hi/hi/hilarious
+- 😄 Pronouns: In the world full of He/him, She/Her, They/Them. I choose to be Hi/Hi/Hilarious
 - ⚡ Fun fact: FullStack Humor Developer
 
 #
