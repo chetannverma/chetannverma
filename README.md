@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently a 3nd Year Computer Engineering Student
+- 🔭 I’m currently a Computer Engineering Student
 - 🌱 I’m currently learning and making project in Web-Development and Blockchain
 - 👯 I’m looking to collaborate on any new Web Project
 - 📫 How to reach me: 
