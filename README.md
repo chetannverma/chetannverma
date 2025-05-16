@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working as a **SOC Analyst** and exploring **Data Science & ML @ IIT Mandi**
-- 🌱 Learning everyday: from **AI/ML** to **Cybersecurity** to **Actuarial Science**
+- 🌱 Learning everyday: from **AI/ML** to **Cybersecurity**
 - 👯 I’m looking to collaborate on **projects that mix tech + impact**
 - ⚡ Fun fact: I love analyzing numbers almost as much as crafting Bollywood-themed Insta edits 🎬
 
