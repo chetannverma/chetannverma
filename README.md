@@ -1,40 +1,46 @@
 # ✨ Chetan Verma  
-### Crafting Intelligence • Designing Systems • Defending the Wired World
+### Architecting Multi-Agent Systems • Engineering Data Pipelines • Deploying at the Edge
 
 ---
 
-### _“Code is just poetry written for machines.”_
+### _“Code is poetry written for machines; architecture is strategy built for production.”_
 
 ---
 
 ## 🌌 Who I Am  
-A builder wandering the quiet space between **data, intelligence, and security**.  
-A thinker who enjoys **clean logic**, **honest numbers**, and **systems that behave at 3 AM**.
+A builder operating at the intersection of **Generative AI, complex system automation, and client-side engineering**.  
+A practical engineer who values **clean architecture**, **deterministic agent workflows**, and **systems that handle production edge-cases at 3 AM**.
 
 I navigate the overlapping worlds of:
+- 🧠 **Generative AI & Agentic Workflows** — LangGraph architectures, multi-agent state machines, and fine-tuning.
+- 🔧 **Production System Engineering** — Building robust APIs, custom integrations, and scalable automation pipelines.
+- 🎓 **Data Science & ML (IIT Mandi)** — Moving mathematical models out of research notebooks and into scalable production.
+- 📊 **Enterprise Data Analytics** — Designing high-throughput ingestion pipelines and actionable, truth-focused data layers.
 
-- ⚔️ **SOC Operations** — finding patterns in digital noise  
-- 🧠 **Machine Learning (IIT Mandi)** — models, math, meaning  
-- 🔧 **Backend Engineering** — APIs, automation, micro-services  
-- 📊 **Data Analytics** — dashboards that tell the truth  
-
-I like problems that fight back.  
-I prefer solutions that feel elegant.
+I don't just build software in isolation—I deploy it directly into production environments to solve real-world, high-stakes business bottlenecks.
 
 ---
 
-## 🔭 What I’m Building  
-- ML-powered assistants that understand context  
-- Data tools that reveal patterns instead of hiding them  
-- Backend systems that run clean and quiet  
-- SOC workflows that automate the boring, catch the important  
+## 🔭 What I’m Building & Scaling  
+- 🤖 **Multi-Agent Orchestrations** — Designing state-aware AI architectures that automate complex, multi-step human logic.
+- ⚙️ **Enterprise Workflows** — Transitioning client pain points into scalable, production-grade automated services.
+- 🔌 **High-Performance Rest APIs** — Serving ultra-low latency inference and real-time data pipelines (FastAPI, GCP).
+- 📉 **Cost-Efficient RAG Systems** — Optimizing LLM context windows, memory structures, and token efficiencies for commercial scale.
+
+---
+
+## 🛠️ Stack & Ecosystem
+- **Languages & Core:** Python, SQL, REST APIs, Bash
+- **GenAI & Orchestration:** LangGraph, LangChain, RAG, Prompt Engineering, OpenAI & Gemini APIs, Vector Databases
+- **Data & Cloud Infrastructure:** Google Cloud Platform (BigQuery, Cloud Storage), MySQL, PostgreSQL, Docker, ETL Pipelines
+- **ML Frameworks:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy
 
 ---
 
 ## 🌐 Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chetanverma)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chetannverma)  
 
 ---
 
-### _“Build slow. Learn deep. Stay curious.”_  
+### _“Build deep. Deploy reliably. Stay curious.”_  
 — Chetan Verma
